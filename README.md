@@ -14,12 +14,19 @@ Example:
 java -jar spark-pmml-0.0.1-SNAPSHOT-jar-with-dependencies.jar <pmml file path>
   
 this is going to be a test
+
 USER VALUE::Male
+
 USER VALUE::Yes
+
 USER VALUE::Private
+
 USER VALUE::55
+
 USER VALUE::1.0
+
 USER VALUE::0
+
 USER VALUE::17.6
   
 stroke {result=0, probability_entries=[0=0.9739583333333334, 1=0.026041666666666668], entityId=16, confidence_entries=[]}
